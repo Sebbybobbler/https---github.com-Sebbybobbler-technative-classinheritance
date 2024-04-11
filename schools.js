@@ -1,4 +1,3 @@
-//school class
 class School {
   constructor(name, level, numberOfStudents) {
     this._name = name;
